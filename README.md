@@ -53,7 +53,8 @@ The goal was to create clear, interactive visualisations that help stakeholders 
 
 ### 📊 Dashboard
 
-All visualisations were combined into a single interactive dashboard titled:
+All visualisations were combined into a single interactive dashboard titled: <img width="795" height="1065" alt="image" src="https://github.com/user-attachments/assets/ddc1ee7f-a32c-4f12-8e86-ca39931e0706" />
+
 
 **🖥️ Global Health Dashboard**
 
@@ -106,7 +107,8 @@ This project explores trends in **Spotify music features** using a large dataset
 
 ### 📊 Dashboard
 
-The analysis was presented in an interactive Tableau dashboard.
+The analysis was presented in an interactive Tableau dashboard.<img width="825" height="1046" alt="image" src="https://github.com/user-attachments/assets/0e8f6ffc-974d-43aa-988e-924d42a4749d" />
+
 
 🔗 **Tableau Public Link:**
 [Spotify Features Comparison Dashboard](https://public.tableau.com/app/profile/mulugeta.dagnaw/viz/SpotifyFeaturesdifferentparametrs/SpotifyFeaturecompartionsbydifferentparametrs)
