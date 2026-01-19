@@ -107,40 +107,10 @@ This project explores trends in **Spotify music features** using a large dataset
 
 ### 📊 Dashboard
 
-The analysis was presented in an interactive Tableau dashboard.<img width="825" height="1046" alt="image" src="https://github.com/user-attachments/assets/0e8f6ffc-974d-43aa-988e-924d42a4749d" />
+<div class='tableauPlaceholder' id='viz1768837911989' style='position: relative'><noscript><a href='#'><img alt='Spotify Features by different parametrs ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sp&#47;SpotifyFeaturesdifferentparametrs&#47;SpotifyFeaturecompartionsbydifferentparametrs&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SpotifyFeaturesdifferentparametrs&#47;SpotifyFeaturecompartionsbydifferentparametrs' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sp&#47;SpotifyFeaturesdifferentparametrs&#47;SpotifyFeaturecompartionsbydifferentparametrs&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1768837911989');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1277px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 
-🔗 **Tableau Public Link:**
-[Spotify Features Comparison Dashboard](https://public.tableau.com/app/profile/mulugeta.dagnaw/viz/SpotifyFeaturesdifferentparametrs/SpotifyFeaturecompartionsbydifferentparametrs)
 
----
 
-## ✅ Skills Demonstrated
 
-* Data visualisation with Tableau
-* Dashboard design and storytelling
-* Trend and comparative analysis
-* Use of filters and interactive elements
-* Translating data into actionable insights
 
----
-
-## 🚀 Outcome
-
-These projects strengthened my ability to:
-
-* Communicate insights visually
-* Build intuitive dashboards for non-technical users
-* Analyse real-world datasets across different domains
-* Support strategic decision-making using data
-
----
-
-If you want, I can:
-
-* 🔹 Create a **shorter GitHub preview version**
-* 🔹 Rewrite this for **business stakeholders**
-* 🔹 Add **screenshots placeholders with captions**
-* 🔹 Align it tightly with **UK Data Analyst job descriptions**
-
-Just tell me 👍
