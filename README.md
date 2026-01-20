@@ -1,6 +1,6 @@
 # 📊  Tableau Data Visualisation Projects
 
-This repository contains two Tableau projects completed as part of a **Data Analyst / Data Technician training programme**. The projects demonstrate practical skills in **data visualisation, dashboard design, trend analysis, and insight generation** using Tableau Public.
+This repository contains two Tableau projects completed. The projects demonstrate practical skills in **data visualisation, dashboard design, trend analysis, and insight generation** using Tableau Public.
 
 ---
 
