@@ -27,7 +27,8 @@ The goal was to create clear, interactive visualisations that help stakeholders 
 ### 🛠️ Tools Used
 
 * **Tableau Public**
-* GapminderHealth.xlsx dataset
+* GapminderHealth.xlsx  [GapminderHealth.xlsx](https://github.com/user-attachments/files/24764019/GapminderHealth.xlsx)
+
 * Filters, calculated fields, and interactive dashboards
 
 ---
